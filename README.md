@@ -3,7 +3,7 @@
 Two types of techniques have been proposed as development from decision trees: random forests and decision tree boosting. The goal of this project is to compare the performance levels obtained with these two methods.
 
 ### Files
-Before explaining the project, here are the description of each file.
+Here are the description of each file.
 | Files | Description |
 | ------ | ------ |
 | `ppt.pdf` | Project presentation slides |
